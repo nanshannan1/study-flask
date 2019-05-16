@@ -1,0 +1,1259 @@
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 11:09:28] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 11:09:30] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 11:09:35] "GET /login HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 11:09:46] "GET /login HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:55:46] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:55:46] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:55:46] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:56:54] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:56:55] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:24 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "POST /user/register HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 14:57:13] "GET /user/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:05:46] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:05:46] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:24 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:06:04] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:06:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:06:57] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:06:57] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:24 One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'mapped class Users->bbs_users'. Original exception was: Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:07:04] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:07:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:08:38] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:08:38] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:24 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:08:45] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:08:45] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:25 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:09:44] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:09:44] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:09:44] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:25 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:10:24] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:10:24] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:10:24] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:12 type object 'Users' has no attribute 'filter_by'
+ERROR operation_db.py:26 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:12:05] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:12:05] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:19:24] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:19:24] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+ERROR operation_db.py:24 One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'mapped class Users->bbs_users'. Original exception was: Error creating backref 'user' on relationship 'Users.problem': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:19:29] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:19:29] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+ERROR __init__.py:97 Error: Directory migrations already exists
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:25:19] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:25:19] "GET /user/head HTTP/1.1" 200 -
+ERROR operation_db.py:12 Error creating backref 'user' on relationship 'Users.u_p': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+ERROR operation_db.py:24 One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'mapped class Users->bbs_users'. Original exception was: Error creating backref 'user' on relationship 'Users.u_p': property of that name exists on mapper 'mapped class Problem->bbs_problem'
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:25:25] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:25:25] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\models.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:36:17] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:36:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:36:23] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:36:23] "GET /user/head.html HTTP/1.1" 404 -
+ERROR __init__.py:97 Error: Directory migrations already exists
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:19] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:20] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:27] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:27] "GET /user/head.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:31] "GET /user/register.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:33] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:35] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:35] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:41] "POST /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:37:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:41:46] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:41:46] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:05] "POST /user/register HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:05] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:05] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:24] "POST /user/register HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:24] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:42:24] "GET /user/head.html HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:44:59] "GET /user/login HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:44:59] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:44:59] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:44:59] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:45:00] "GET /user/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:45:00] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:45:00] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:45:44] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:45:44] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:50:33] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:51:53] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:51:55] "GET /user/register.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:52:01] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:52:01] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:52:01] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:52:02] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:52:12] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:53] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:53] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:53] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:54] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:54] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:54] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:55] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:55] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:55] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:53:56] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:00] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:02] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:02] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:02] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:03] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:04] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:04] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:04] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:05] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:05] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:05] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:06] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:07] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:10] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 15:54:12] "GET /user/login.html HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:07:58] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:07:58] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:07:58] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:00] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:00] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:00] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "POST /user/login HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:08:03] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:45] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:45] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:45] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:50] "POST /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:50] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:50] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:54] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:54] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:54] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:55] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:55] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:09:55] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\users\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:44] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:44] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:44] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:49] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:49] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:49] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:52] "POST /user/login HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:50:52] "GET /tie_bar/index HTTP/1.1" 405 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:35] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:37] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:37] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:37] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:41] "POST /user/login HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:41] "GET /tie_bar/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:51:41] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 16:58:52] "GET /tie_bar/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:25] "GET /tie_bar/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:32] "GET /tie_bar/index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:46] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:46] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:46] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:47] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:47] "GET /tie_ba/head.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:00:48] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:48] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:48] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:48] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:48] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:50] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:50] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:50] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:51] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:51] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:51] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:53] "GET /user/index.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:01:56] "GET /user/index.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:48] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:48] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:48] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:51] "GET /user/index.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:54] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:54] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:54] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:02:56] "GET /user/index.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:25] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:25] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:25] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:26] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:26] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:26] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:27] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:28] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:28] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:28] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:29] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:30] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:30] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:30] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:30] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:30] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:31] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:31] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:31] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:47] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:47] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:47] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:50] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:50] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:50] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:51] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:51] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:51] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:52] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:52] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:52] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:52] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:52] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:53] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:55] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:55] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:55] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:56] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:56] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:03:56] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:00] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:00] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:00] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:03] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:03] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:03] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:04] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:04] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:06] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:06] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:06] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:08] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:08] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:08] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:10] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:11] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:11] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:11] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:12] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:14] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:15] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:15] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:15] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:16] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:17] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:18] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:18] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:19] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:19] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:19] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:20] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:22] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:22] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:22] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:24] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:24] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:24] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:25] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:25] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:25] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:26] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:26] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:26] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:59] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:59] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:59] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:59] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:04:59] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:00] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:00] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:00] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:01] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:03] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:03] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:03] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:03] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:03] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:04] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:04] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:04] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:05] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:05] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:05] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:09] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:09] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:09] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:11] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:11] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:11] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:13] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:13] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:13] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:14] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:15] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:17] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:17] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:17] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:18] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:18] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:19] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:19] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:19] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:21] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:21] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:21] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:22] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:22] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:22] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:24] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:24] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:24] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:26] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:26] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:26] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:28] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:28] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:28] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:28] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:28] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:29] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:29] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:29] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:30] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:30] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:30] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:32] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:32] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:32] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:33] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:33] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:33] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:34] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:35] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:36] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:36] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:36] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:37] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:37] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:37] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:37] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:38] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:38] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:39] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:40] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:40] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:40] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:41] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:41] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:51] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:51] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:51] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:51] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:54] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:54] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:54] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:56] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:56] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:56] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:05:56] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:07:47] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:07:47] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:07:47] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:07:47] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:13] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:13] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:13] "GET /static/layui/css/layui.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:14] "GET /static/css/global.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:14] "GET /static/layui/layui.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:14] "GET /static/css/iconfont.woff?t=1477416582 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:16] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:18] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:18] "GET /static/images/uer.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:18] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:20] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:20] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:24] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:24] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:24] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:24] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:26] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:26] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:26] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:27] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:28] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:28] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:28] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:42] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:42] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:42] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:50] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:50] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:50] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:51] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:51] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:51] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:09:51] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:11] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:12] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:13] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:14] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:16] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:16] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:18] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:18] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:18] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:19] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:19] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:19] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:20] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:29] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:29] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:29] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:30] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:30] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:30] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:31] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:32] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:32] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:32] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:33] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:33] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:33] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:34] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:34] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:34] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:10:34] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:09] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:09] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:09] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:10] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:11] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:11] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:11] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:13] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:13] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:13] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:15] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:15] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:15] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:16] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:18] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:18] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:18] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:18] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:20] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:21] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:21] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:21] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:21] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:22] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:22] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:22] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:25] "GET /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:25] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:25] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:25] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "POST /user/login HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "GET /user/login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "GET /user/login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "GET /user/login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "GET /user/login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:38] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:14:39] "GET /user/login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:30] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:30] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:30] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:33] "POST /user/login HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:33] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:33] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:33] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:35] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:35] "GET /static/js/kindeditor.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:35] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:35] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:15:35] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:13] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:13] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:13] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:13] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:15] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:15] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:15] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:15] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:19] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:19] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:19] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:19:19] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/layui/css/layui.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/css/global.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/layui/layui.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/layui/css/layui.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/css/global.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:21:14] "GET /static/css/iconfont.woff?t=1477416582 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /static/js/skins/default.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /static/js/skins/default/default.gif HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /static/js/skins/common/editor.css?ver=3.4.2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:25:55] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:26:27] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:26:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:26:27] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:26:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:26:27] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:10] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:10] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:10] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:20] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:20] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:28:20] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:53:59] "GET /tie_ba/add?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:27] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:27] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:27] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:27] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:27] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:43] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:43] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:43] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:43] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:43] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:45] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:45] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:45] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:45] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:54:45] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:55:24] "POST /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:55:24] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:55:24] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 17:55:24] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:00:59] "GET / HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:00:59] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:07] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:07] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:07] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:12] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:01:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [15/May/2019 18:02:35] "GET /tie_ba/detail.html HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\utils\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:37] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:37] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:43] "GET /index/1 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index/1 HTTP/1.1" 308 -
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:49:56] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:50:42] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:51:13] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:08] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:08] "GET /static/layui/css/layui.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:08] "GET /static/css/global.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:08] "GET /static/layui/layui.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:08] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:09] "GET /static/css/iconfont.woff?t=1477416582 HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:55:09] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:56:25] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:44 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:37] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:37] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:37] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:37] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:37] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:57:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\utils\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR operation_db.py:45 'list' object has no attribute 'order_by'
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:58:14] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:58:14] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 09:58:14] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\utils\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:08:59] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\utils\\operation_db.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:14:05] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:36] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:36] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /static/images/uer.jpg HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:41] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:42] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:42] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:42] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:43] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:43] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:43] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:15:44] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in 'E:\\shequwenda_demo\\bbs\\Tieba\\views.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:42] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:42] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:42] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:46] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:46] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:46] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:47] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:47] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:18:47] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:12] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:12] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:12] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:20] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:20] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:19:20] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:20:49] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:36] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:21:38] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:26:35] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:27:14] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:36:57] "GET /tie_ba/index?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:38:01] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:38:01] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:38:01] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:38:01] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:16] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:16] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:16] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:16] "GET /favicon.ico HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /static/js/kindeditor.js HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /static/js/skins/default.css HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /static/js/skins/default/default.gif HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /static/js/skins/common/editor.css?ver=3.4.2 HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:45] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:58] "POST /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:58] "POST /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:58] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:58] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:53:58] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:02] "GET /tie_ba/add HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:02] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:02] "GET //static/mods/index.js?v=2.0.0 HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:02] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:02] "GET /tie_ba/index.css HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:08] "POST /tie_ba/add HTTP/1.1" 302 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:08] "GET /tie_ba/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:08] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:08] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:15] "GET /tie_ba/index/2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:15] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:54:15] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:54] "GET /tie_ba/index/2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:54] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:54] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:56:56] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:19] "GET /tie_ba/index/2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:19] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:19] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:20] "GET /tie_ba/detail/6 HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:20] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:20] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:20] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:21] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:57:21] "GET /tie_ba/detail/6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 185-191-732
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:59:31] "GET /tie_ba/detail/6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:59:31] "GET /tie_ba/detail/js/jquery.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 10:59:31] "GET /tie_ba/detail/head.html HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:07] "GET /tie_ba/detail/6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:07] "GET /tie_ba/detail/js/jquery.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:07] "GET /tie_ba/detail/js/jquery.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:07] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:07] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:41] "GET /tie_ba/detail/6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:41] "GET /tie_ba/detail/js/jquery.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:41] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:41] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:42] "GET /tie_ba/detail/6 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:42] "GET /tie_ba/detail/js/jquery.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:42] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:00:42] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:21] "GET /user/login HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:21] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:21] "GET /user/res/layui/layui.js HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:23] "GET /user/register HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:23] "GET /user/head HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [16/May/2019 11:03:23] "GET /user/res/layui/layui.js HTTP/1.1" 404 -

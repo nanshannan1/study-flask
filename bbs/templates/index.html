@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>问答系统首页</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="stylesheet" href="/static/layui/css/layui.css">
+		<link rel="stylesheet" href="/static/css/global.css">
+		<script src="/static/layui/layui.js"></script>
+	</head>
+	<body>
+		<iframe  src="{{url_for('user.head')}}" scrolling="no" width="100%" height="65px" ></iframe>
+		<div class="main layui-clear">
+			<div class="wrap">
+				<div class="content" style="margin-right:0">
+					<div class="fly-tab">
+						<!--
+        <span>
+          <a href="" class="tab-this">全部</a>
+          <a href="">未结帖</a>
+          <a href="">已采纳</a>
+          <a href="">置顶帖</a>
+          <a href="../user/index.html">我的帖</a>
+        </span>
+       -->
+			<form action="" class="fly-search">
+				<i class="iconfont icon-sousuo"></i>
+				<input class="layui-input" autocomplete="off" placeholder="搜索内容" type="text" name="q">
+			</form>
+						<a href="{{url_for('tie_ba.add')}}" class="layui-btn jie-add">发布问题</a>
+					</div>
+
+					<ul class="fly-list">
+
+
+						{% for problem in problems%}
+						{% if problem.status==1 %}
+						<li class="fly-list-li">
+							<a href="../user/home.html" class="fly-list-avatar">
+								<img src="/static/images/uer.jpg" alt="">
+							</a>
+							<h2 class="fly-tip">
+            <a href="/tie_ba/detail/{{ problem.id }}">{{ problem.title }}</a>
+            <span class="fly-tip-stick">置顶</span>
+          </h2>
+							<p>
+								<span><a href="">{{ problem.user_id.name }}</a></span>
+								<span>刚刚</span>
+								<span class="fly-list-hint">
+              <i class="iconfont" title="回答">&#xe60c;</i> 317
+            </span>
+							</p>
+						</li>
+						{% else %}
+
+						<li class="fly-list-li">
+							<a href="" class="fly-list-avatar">
+								<img src="/static/images/uer.jpg" alt="">
+							</a>
+							<h2 class="fly-tip">
+            <a href="/tie_ba/detail/{{ problem.id }}">{{ problem.title }} </a>
+          </h2>
+							<p>
+								<span><a href="">{{ problem.user_id.name }}</a></span>
+								<span>30分钟前</span>
+								<span>技术闲谈</span>
+								<span class="fly-list-hint"> 
+              <i class="iconfont" title="回答">&#xe60c;</i> 502
+            </span>
+							</p>
+						</li>
+						{% endif %}
+
+						{% endfor %}
+					</ul>
+
+					<!-- <div class="fly-none">并无相关数据</div> -->
+
+
+					<div style="text-align: center">
+						<div class="laypage-main">
+							{% for page in paginate.iter_pages() %}
+							{% if page %}
+							{% if page != paginate.page %}
+							<a href="/tie_ba/index/{{page}}">{{page}}</a>
+							{% else%}
+							<span class="laypage-curr">{{page}}</span>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+							<span>…</span>
+							<a href="{{url_for('tie_ba.index', page=paginate.pages)}}" class="laypage-last" title="尾页">尾页</a>
+							{% if paginate.has_next %}
+							<a href="{{url_for('tie_ba.index', page=paginate.next_num)}}" class="laypage-next">下一页</a>
+							{% endif %}
+						</div>
+					</div>
+
+
+
+
+
+				</div>
+			</div>
+		</div>
+	</body>
+
+</html>
